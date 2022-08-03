@@ -1,0 +1,9 @@
+c:\users\lenovo\documents\visual studio 2012\Projects\OnOff\OnOff\bin\Debug\OnOff.exe.config
+C:\Users\LENOVO\documents\visual studio 2012\Projects\OnOff\OnOff\bin\Debug\OnOff.exe
+C:\Users\LENOVO\documents\visual studio 2012\Projects\OnOff\OnOff\bin\Debug\OnOff.pdb
+C:\Users\LENOVO\documents\visual studio 2012\Projects\OnOff\OnOff\obj\Debug\OnOff.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\documents\visual studio 2012\Projects\OnOff\OnOff\obj\Debug\OnOff.Form1.resources
+C:\Users\LENOVO\documents\visual studio 2012\Projects\OnOff\OnOff\obj\Debug\OnOff.Properties.Resources.resources
+C:\Users\LENOVO\documents\visual studio 2012\Projects\OnOff\OnOff\obj\Debug\OnOff.csproj.GenerateResource.Cache
+C:\Users\LENOVO\documents\visual studio 2012\Projects\OnOff\OnOff\obj\Debug\OnOff.exe
+C:\Users\LENOVO\documents\visual studio 2012\Projects\OnOff\OnOff\obj\Debug\OnOff.pdb
